@@ -1,7 +1,7 @@
 # talent_ui
 
 A new Flutter application.
-
+![Settings Window](https://i.postimg.cc/RVFYwf0R/Screenshot-20200727-102152.jpg)
 ## Getting Started
 
 This project is a starting point for a Flutter application.
